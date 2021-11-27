@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ima",
+				"imagens"
+			],
+			[
+				"boder",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"f",
+				"for"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"u",
+				"ultimo"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"lin",
+				"linear-gradient()"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"me",
+				"mensagem"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"con",
+				"conteudo-secundario"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"ge",
+				"green"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"c",
+				"clear"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"gray",
+				"dimgray"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"ac",
+				"action"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4675,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "TecBlog.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Cancel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Salatiel W/Desktop/Projeto text/TecBlog",
+		"/C/Users/Salatiel W/Desktop/Projeto text/TecBlog/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Salatiel W/Desktop/noticias-cidade/index.html",
+		"/C/Users/Salatiel W/Desktop/noticias-cidade/brasil.html",
+		"/C/Users/Salatiel W/Desktop/noticias-cidade/css/estilo.css",
+		"/C/Users/Salatiel W/Desktop/noticias-cidade/ultima-entrevista.html",
+		"/C/Users/Salatiel W/Desktop/noticias-cidade/fotos.html",
+		"/C/Users/Salatiel W/Desktop/noticias-cidade/ciencia.html",
+		"/C/Users/Salatiel W/Desktop/noticias-cidade/saude.html",
+		"/C/Users/Salatiel W/Desktop/noticias-cidade/economia.html",
+		"/C/Users/Salatiel W/Desktop/noticias-cidade/internacional.html",
+		"/C/Users/Salatiel W/Desktop/css3 intermediario e avancado/css/estilo.css",
+		"/C/Users/Salatiel W/Desktop/css3 intermediario e avancado/arredondamento.html",
+		"/C/Users/Salatiel W/Desktop/css3 intermediario e avancado/layout.html",
+		"/C/Users/Salatiel W/Desktop/css3 intermediario e avancado/servicos.html",
+		"/C/Users/Salatiel W/Desktop/css3 intermediario e avancado/sobre.html",
+		"/C/Users/Salatiel W/Desktop/css3 intermediario e avancado/noticias.html",
+		"/C/Users/Salatiel W/Desktop/css3 intermediario e avancado/contato.html",
+		"/C/Users/Salatiel W/Desktop/css3 intermediario e avancado/heranca.html",
+		"/C/Users/Salatiel W/Desktop/css3 intermediario e avancado/navegacao-vertical.html",
+		"/C/Users/Salatiel W/Desktop/css3 intermediario e avancado/seletores.html",
+		"/C/Users/Salatiel W/Desktop/TecBlog/index.html",
+		"/C/Users/Salatiel W/Desktop/TecBlog/css/estilo.css",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3 Intermediario/links.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3 Intermediario/Sobrepondo elementos.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3 Intermediario/Posicionamento.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3 Intermediario/Elementos-inline-block.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3 Intermediario/elementos-flutuantes-pratica.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3 Intermediario/elementos-flutuantes.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3 Intermediario/estilo.css",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3 Intermediario/modelo-de-caixa.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/projeto anna bella/contato.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/projeto anna bella/estilo.css",
+		"/C/Users/Salatiel W/Desktop/Projeto text/projeto anna bella/index.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/projeto anna bella/biografia.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3/pagina1.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3/pagina2.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3/estilo.css",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3/cor-imagem-fundo.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3/estilos-textos.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3/tamanho-textos.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3/fontes-cores.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3/bordas.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3/div-span.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3/classes-ids.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoCSS3/inline_style.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoFinalHtml/index.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoFinalHtml/quem-somos.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/ProjetoFinalHtml/contato.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/Primeiro projeto/index.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/Primeiro projeto/contato.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/Primeiro projeto/projeto.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/Projeto Web/index.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/Projeto aula/index.html",
+		"/C/Users/Salatiel W/Desktop/Projeto text/Projeto aula/css/estilo.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\n",
+			"test"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "TecBlog.sublime-project",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TecBlog.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

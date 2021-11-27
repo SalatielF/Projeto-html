@@ -1,0 +1,151 @@
+/***********************************
+Seletores universal 
+* {
+	border: 1px solid red;
+}*/
+
+
+/******************************
+Seletores de texto 
+h1 {
+	color: green;
+}*/
+
+/*****************************
+Seletores de classe 
+.verde {
+	color: green;
+}
+
+p.verde {
+	color: green;
+}*/
+
+/******************************
+Seletor de ID 
+#cabecalho {
+	border: 1px solid blue;
+}*/
+
+/******************************
+Seletor filho
+li>a {
+	color: red;
+	text-decoration: none;
+}*/
+
+/******************************
+Seletor descendente
+div a {
+	color: green;
+}*/
+
+/******************************
+Seletor de irmão adjacente
+h1+p {
+	color: red;
+}*/
+
+/******************************
+Seletor de irmão  geral
+h1~p {
+	color: pink;
+}*/
+
+
+
+/******************************
+***************************
+Herança e especificidade 
+p {
+	color: red;
+}
+
+P {
+	color: blue;
+}*/
+
+/***********************
+Seletores iguais, exceção important
+#pagina p {
+	color: red;
+}
+
+#pagina P {
+	color: blue;
+}*/
+
+
+
+/* Se um seleto for mais específico que outo
+a rega mais específica seá aplicada
+(terá precedência sobre regras mais gerais)
+*/
+
+/**************************
+* {
+	color: red;
+}*/
+/************
+h2 {/*3
+	color: blue;
+}*/
+/**************************
+h2.verde {/*2
+	color: green;
+}*/
+/**************************
+h2#amarelo {/*1
+	color: yellow;
+}*/
+
+
+
+/*****************************
+Barra de navegação vertical */
+/*
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	padding: 5px 20px;
+	background: url(../imagens/seta.png) no-repeat left center;
+}
+*/
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+ul a {
+	/*border: 1px solid red;*/
+	width: 200px;
+	height: 40px;
+	display: block;
+	color: #000;
+	text-decoration: none;
+	text-indent: 40px;
+	line-height: 40px;
+	background: #f7b600 url(../imagens/menu.png)no-repeat left bottom;
+}
+
+a:hover {
+	background-position: right bottom;
+	background-color: #f99200;
+	color: #fff;
+}
+
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#servicos #servicos .servicos a,
+#noticias #noticias .noticias a,
+#contato #contato .contato a, {
+	background-position: right bottom;
+	background-color: #f99200;
+	color: #fff
+}
