@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"e",
+				"economize"
+			],
+			[
+				"c",
+				"col-md-6"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"in",
+				"input-group-append"
+			],
+			[
+				"col-md",
+				"col-md-6"
+			],
+			[
+				"na",
+				"navbar-toggler"
+			],
+			[
+				"nav",
+				"navbar-toggler-icon"
+			],
+			[
 				"d",
 				"d-flex"
 			],
@@ -14,10 +70,6 @@
 			[
 				"f",
 				"flex-column"
-			],
-			[
-				"b",
-				"border"
 			],
 			[
 				"s",
@@ -32,24 +84,12 @@
 				"style"
 			],
 			[
-				"i",
-				"i"
-			],
-			[
 				"ali",
 				"align-self-center"
 			],
 			[
 				"lis",
 				"list-unstyled"
-			],
-			[
-				"li",
-				"li"
-			],
-			[
-				"btn",
-				"btn-outline-success"
 			],
 			[
 				"btn-o",
@@ -82,10 +122,6 @@
 			[
 				"pr",
 				"progress"
-			],
-			[
-				"in",
-				"input-group-append"
 			],
 			[
 				"se",
@@ -168,10 +204,6 @@
 				"color"
 			],
 			[
-				"bor",
-				"border"
-			],
-			[
 				"fon",
 				"font-size"
 			],
@@ -186,14 +218,6 @@
 			[
 				"pri",
 				"principal"
-			],
-			[
-				"bac",
-				"background"
-			],
-			[
-				"he",
-				"header"
 			],
 			[
 				"cont",
@@ -356,20 +380,12 @@
 				"green"
 			],
 			[
-				"c",
-				"clear"
-			],
-			[
 				"fi",
 				"fixed"
 			],
 			[
 				"h",
 				"h1"
-			],
-			[
-				"bord",
-				"border-style"
 			],
 			[
 				"gray",
@@ -384,41 +400,38 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/projeto-bootstrap4/index.html",
+			"file": "/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/finans/css/estilo.css",
+			"redo_stack":
+			[
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "ss"
+					},
+					"AgAAABsAAAAAAAAAGwAAAAAAAAABAAAAcxoAAAAAAAAAGgAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "succe"
+					},
+					"BgAAABkAAAAAAAAAGQAAAAAAAAABAAAAZRgAAAAAAAAAGAAAAAAAAAABAAAAYxcAAAAAAAAAFwAAAAAAAAABAAAAYxYAAAAAAAAAFgAAAAAAAAABAAAAdRYAAAAAAAAAGwAAAAAAAAAAAAAAFQAAAAAAAAAVAAAAAAAAAAEAAABz",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				]
+			],
 			"settings":
 			{
-				"buffer_size": 1468,
+				"buffer_size": 145,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
 			[
-				[
-					3,
-					1,
-					"paste",
-					null,
-					"AQAAAAAAAAAAAAAA2gQAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					12,
-					1,
-					"insert",
-					{
-						"characters": "\n\n"
-					},
-					"BQAAALoBAAAAAAAAuwEAAAAAAAAAAAAAuwEAAAAAAAC/AQAAAAAAAAAAAAC/AQAAAAAAAMABAAAAAAAAAAAAAMABAAAAAAAAxAEAAAAAAAAAAAAAuwEAAAAAAAC7AQAAAAAAAAQAAAAgICAg",
-					"AQAAAAAAAAABAAAAugEAAAAAAAC6AQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					13,
-					1,
-					"paste",
-					null,
-					"AQAAAMABAAAAAAAAnAIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAwAEAAAAAAADAAQAAAAAAAAAAAAAAAPC/"
-				]
 			]
 		}
 	],
@@ -459,10 +472,15 @@
 	"expanded_folders":
 	[
 		"/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html",
-		"/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/projeto-bootstrap4"
+		"/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/finans",
+		"/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/finans/css"
 	],
 	"file_history":
 	[
+		"/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/projeto-inicial-spotify/css/estilo.css",
+		"/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/projeto-inicial-spotify/index.html",
+		"/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/finans/index.html",
+		"/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/finans/css/estilo.css",
 		"/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/bootstrap4/apoio-margin-wrap.html",
 		"/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/bootstrap4/apoio-barra-navegacao.html",
 		"/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/media-queries/estilo-impressao.css",
@@ -551,7 +569,7 @@
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -591,27 +609,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/projeto-bootstrap4/index.html",
+					"file": "/C/Users/Salatiel W/Desktop/Projeto-html/Projeto-html/finans/css/estilo.css",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1468,
+						"buffer_size": 145,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								502,
-								502
+								145,
+								145
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -700,7 +718,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 254.0,
 	"status_bar_visible": true,
 	"template_settings":
