@@ -19,37 +19,46 @@
 	<body>
 		
 		<header><!-- Início do cabecalho -->
-			<nav class="navbar navbar-expand-sm navbar-light bg-primary">
+			<nav class="navbar navbar-expand-lg navbar navbar-dark" style="background-image: url(imagens/fundo.png);" width="100">
 				<div class="container">
 
 					<a href="#" class="navbar-brand">
-						<img src="imagens/logo.png">
+						<img src="imagens/logo.png" width="142">
 					</a>
 					
-					<button class="navbar-toggler" data-toggle="collapse" 
+					<button class="navbar-toggler btn btn-outline-light" data-toggle="collapse" 
 					data-target="#nav-principal">
-						<span class="navbar-toggler-icon"></span>
+						<span class="navbar-toggler-icon btn-outline-light"></span>
 					</button>
 
 					<div class="collapse navbar-collapse" id="nav-principal">
 						<ul class="navbar-nav ml-auto">
 							<li class="nav-item">
-								<a href="index.html" class="nav-item">Home</a>
+								<a href="index.html" class="nav-link">Home</a>
 							</li>
 
 							<li class="nav-item">
-								<a href="brasil.html" class="nav-item">Brasil</a>
+								<a href="brasil.html" class="nav-link">Brasil</a>
 							</li>
 
 							<li class="nav-item">
-								<a href="internacional.html" class="nav-item">Internacional</a>
+								<a href="internacional.html" class="nav-link">Internacional</a>
 							</li>
 
 							<li class="nav-item">
-								<a href="economia.html" class="nav-item">Economia</a>
+								<a href="economia.html" class="nav-link">Economia</a>
+							</li>
+
+							<li class="nav-item">
+								<a href="saude.html" class="nav-link">Saúde</a>
 							</li>
 						</ul>
-						
+
+						<form class="form-inline">
+          					<input type="text" class="form-control mr-sm-2" placeholder="Pesquisar...">
+          					<button class="btn btn-outline-light">Ok</button>
+        				</form>
+
 					</div>
 
 				</div>
@@ -73,6 +82,12 @@
 					&copy; Copyright 2000-2021 Notícias cidade
 				</div>
 			</div>
+
+		<!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
 	</body>
 </html>
