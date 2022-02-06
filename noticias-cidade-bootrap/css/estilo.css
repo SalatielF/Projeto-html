@@ -6,9 +6,11 @@ html, body, #home {
 }
 
 body {
-	background: ;
+	background-attachment: fixed;
+	font-family: Helvetica,Arial,sans-serif;
 }
 
-
+/* Barra de navegação
+----------------------------*/
 
 
