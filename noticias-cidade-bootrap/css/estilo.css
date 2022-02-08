@@ -13,4 +13,15 @@ body {
 /* Barra de navegação
 ----------------------------*/
 
+.carousel-item,
+.carousel-inner,
+.carousel-inner img {
+  height: 100%;
+  width: auto;
+}
 
+.carousel-item {
+  text-align: center;
+}
+min-width: 100%;
+height: 600px; 
